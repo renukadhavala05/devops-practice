@@ -1,1 +1,3 @@
-This is my Devops practice repositroy.
+# DevOps Practice
+
+This is my DevOps practice repository.
